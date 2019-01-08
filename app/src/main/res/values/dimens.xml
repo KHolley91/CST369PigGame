@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="defaultPadding">16dp</dimen>
+    <dimen name="spacing">8dp</dimen>
+    <dimen name="smallerSpacing">4dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="resultsSize">30dp</dimen>
+
+
+</resources>

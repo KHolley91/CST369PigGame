@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:defaultValue="4"
+        android:entries="@array/win_score_select_list"
+        android:entryValues="@array/win_score_select_list"
+        android:key="pref_numberOfChoices"
+        android:persistent="true"
+        android:summary="@string/maxScoreDescription"
+        android:title="@string/maxScore" />
+
+
+</PreferenceScreen>

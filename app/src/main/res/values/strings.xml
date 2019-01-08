@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pig Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_of_die">Number Of Dice</string>
+    <string name="displaySelfScore">0</string>
+    <string name="displayCompScore">0</string>
+    <string name="selfScoreLabel">Score</string>
+    <string name="computerScoreLabel">Computer</string>
+    <string name="displayTrough">0</string>
+    <string name="troughLabel">Trough</string>
+    <string name="resultsOfTurn">Results of Turn Before Regex</string>
+    <string name="rollAgain">Roll Again</string>
+    <string name="buttonHold">Hold</string>
+    <string name="maxScoreDescription">Play up to 50, 100, 150, or 200</string>
+    <string name="maxScore">Pick Maximum Score</string>
+    <string name="resultsOfTurnFix" />
+    <string name="restartGame">Game will reset with your new score settings.</string>
+    <string name="gameEndedNewOne">Game has ended, starting new one now.</string>
+    <string name="defaultScore">100</string>
+    <string name="notifyDefaultScore">Score set to 100 by default.</string>
+
+
+</resources>
